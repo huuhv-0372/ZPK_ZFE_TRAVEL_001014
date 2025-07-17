@@ -1,0 +1,10 @@
+{
+  "formatVersion": "1",
+  "header": {
+    "description": "Generated SAP Object Node Type",
+    "originalLanguage": "en",
+    "abapLanguageVersion": "cloudDevelopment"
+  },
+  "name": "ZFE_Booking_001014",
+  "sapObjectType": "ZFE_Travel_001014"
+}
